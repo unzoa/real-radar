@@ -1,0 +1,34 @@
+{
+  "name": "real-radar",
+  "version": "1.0.0",
+  "description": "一个真实雷达调节图形化组件。🎃注意🎃：是真实雷达数据！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unzoa/real-radar.git"
+  },
+  "keywords": [
+    "svg",
+    "vue",
+    "radar",
+    "angle",
+    "speed",
+    "rotate",
+    "callout"
+  ],
+  "author": "unzoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unzoa/real-radar/issues"
+  },
+  "homepage": "https://github.com/unzoa/real-radar#readme",
+  "files": [
+    "index.js",
+    "package.json",
+    "Radar.vue",
+    "README.md"
+  ]
+}
