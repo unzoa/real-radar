@@ -2,7 +2,7 @@
 
 > 一个真实雷达调节图形化组件。🎃注意🎃：是真实雷达数据！
 
-<img src="./img.png" width="300px" />
+<img src="https://raw.githubusercontent.com/unzoa/real-radar/main/img.png" width="300px" />
 
 ## 安装
 
